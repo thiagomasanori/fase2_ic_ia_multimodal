@@ -1,1 +1,1 @@
-
+Os arquivos contém o script que estava sendo utilizado, porém há ainda algum erro na chamada da função para várias imagens. A primeira tentativa foi de aplicar o modelo nos arquivos baixados, e a ideia seria posteriormente aplicar o modelo em dados puxados do PACs Orthanc. 
