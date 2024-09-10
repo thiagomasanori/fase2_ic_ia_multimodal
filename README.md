@@ -7,3 +7,5 @@ A primeira tarefa consistiu em criar e configurar um PACs (Picture Archiving and
   O chatGPT foi muito útil para entender o que era um dockerfile, uma imagem e um container do Docker e também o que era um PACs e estes conceitos mais básicos da tarefa
 
 A segunda tarefa consistiu em fazer o upload de arquivos DICOM usando a API Rest do Orthanc com um script em Python.
+
+A terceira tarefa era de aplicar o modelo de classificação nos arquivos DICOM da tarefa anterior, porém não foi concluídos. A ideia era usar a biblioteca https://github.com/mlmed/torchxrayvision/tree/master , com modelos pré-treinados presentes no repositório.
