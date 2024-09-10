@@ -9,4 +9,4 @@ A primeira tarefa consistiu em criar e configurar um PACs (Picture Archiving and
 
 A segunda tarefa consistiu em fazer o upload de arquivos DICOM usando a API Rest do Orthanc com um script em Python.
 
-A terceira tarefa era de aplicar o modelo de classificação nos arquivos DICOM da tarefa anterior, porém não foi concluídos. A ideia era usar a biblioteca [github.com/mlmed/torchxrayvision]https://github.com/mlmed/torchxrayvision/tree/master , com modelos pré-treinados presentes no repositório.
+A terceira tarefa era de aplicar o modelo de classificação nos arquivos DICOM da tarefa anterior, porém não foi concluídos. A ideia era usar a biblioteca [github.com/mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision/tree/master) , com modelos pré-treinados presentes no repositório.
