@@ -9,3 +9,5 @@ No fim, a autenticação ainda é necessária e o usuário e senha são definido
 Ao executar o comando RUN, inicializando o Container o servidor roda no endereço:
   http://localhost:8042
 
+
+<img width="1699" alt="image" src="https://github.com/user-attachments/assets/1bf08950-433c-4c8e-a924-b441e25fc7b4">
