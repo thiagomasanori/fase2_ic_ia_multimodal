@@ -1,4 +1,4 @@
-# apply in terminal: 
+# apply on terminal: 
 #   pip install requests
 
 import os 
